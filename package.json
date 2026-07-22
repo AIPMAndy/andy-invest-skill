@@ -1,0 +1,24 @@
+{
+  "name": "andy-invest-skill",
+  "version": "1.0.0",
+  "description": "AI-powered investment decision system integrating portfolio management, risk control, and market intelligence",
+  "keywords": [
+    "investment",
+    "portfolio-management",
+    "risk-control",
+    "trading-system",
+    "financial-planning",
+    "market-analysis",
+    "claude-skill"
+  ],
+  "author": "Andy",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AIPMAndy/andy-invest-skill.git"
+  },
+  "homepage": "https://github.com/AIPMAndy/andy-invest-skill#readme",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
