@@ -4,6 +4,8 @@
 
 **Andy 投资决策系统** - 整合投资记录、组合管理、复盘分析、风险评估与市场情报的完整投资操作系统
 
+> ⚠️ Not financial advice. 不构成投资建议，详见 [Disclaimer](#disclaimer)。
+
 ---
 
 ## 🎯 What This Is
@@ -191,6 +193,13 @@ This project is part of Andy's three-pillar strategy:
 - Revenue & feedback → Improve product
 
 ---
+
+## Disclaimer
+
+DISCLAIMER: This software is for educational and personal decision-support purposes only.
+It does not constitute financial advice. All investment decisions are at your own risk.
+Past performance does not guarantee future results. Consult qualified financial advisors
+before making investment decisions.
 
 ## 📝 License
 
